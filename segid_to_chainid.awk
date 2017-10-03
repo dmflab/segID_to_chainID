@@ -16,10 +16,10 @@
 #          ATOM      1  N   THR A 144       8.284 -10.719  29.242  1.00255.38           N
 #                               ^                                  ^^^^ ^^^^^      ^^^^  
 #          13-16 Atom  [hydrogen atoms - 'H' at position 13, 14]
-#	   22    chainID
+#          22    chainID
 #          55-60 occupancy  
-#	   61-66 tempFactor 
-#	   73-76 segID [which are formatted as 'PROA', 'PROB'... etc in these files]
+#          61-66 tempFactor 
+#          73-76 segID [which are formatted as 'PROA', 'PROB'... etc in these files]
 #
 # input: MD file with only SEGIDs unique
 # output: new PDB file 
